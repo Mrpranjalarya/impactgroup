@@ -1,6 +1,7 @@
 # 🌟 Impact Training Project Repository 🚀
 
 Welcome to the Impact Training Project Repository! 🌍
+![Animated GIF](https://giphy.com/gifs/cat-hacker-webs-o0vwzuFwCGAFO)
 
 ## About ℹ️
 
