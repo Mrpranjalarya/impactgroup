@@ -10,7 +10,7 @@ Welcome to the Impact Training Project Repository! 🌍
 <!----------------------------------------------------------------------------->
 [Link]: # 'Link with example title.'
 <!---------------------------------[ Buttons ]--------------------------------->
-[Button Icon]: https://img.shields.io/badge/YAY!-EF2D5E?style=for-the-badge&logoColor=red&logo=DocuSign
+[Button Icon]: https://img.shields.io/badge/YAY!-EF2D5E?style=for-the-badge&logoColor=white&logo=DocuSign
 
 ## About ℹ️
 
