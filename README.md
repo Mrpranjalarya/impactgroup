@@ -3,6 +3,11 @@
 Welcome to the Impact Training Project Repository! 🌍
 ![Animated GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHAzcHk4aWVuendka3U1NjBuY3I5bWtrMnkxN3Bpb21pejAwNGRsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o0vwzuFwCGAFO/giphy.gif)
 
+<div style="text-align:center;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXoycWthdXowMHd6ZW9scmlsZW5ubjJmZ25wcGVybWQ4eHBxczd5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="Your GIF" />
+</div>
+
+
 ## About ℹ️
 
 This repository is dedicated to fostering collaboration and learning among diverse individuals for impactful projects. Our goal is to create a space where ideas flourish, teams thrive, and positive change is made. 🌱💡
