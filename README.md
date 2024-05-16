@@ -6,22 +6,8 @@ Welcome to the Impact Training Project Repository! 🌍
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXoycWthdXowMHd6ZW9scmlsZW5ubjJmZ25wcGVybWQ4eHBxczd5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="Your GIF" />
 </div>
 
-<button class="button-85" role="button" style="
-  padding: 0.6em 2em;
-  border: none;
-  outline: none;
-  color: rgb(255, 255, 255);
-  background: #111;
-  cursor: pointer;
-  position: relative;
-  z-index: 0;
-  border-radius: 10px;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-">
-  NICE!
-</button>
+[![Rainbow Button](https://img.shields.io/badge/Rainbow-Button-ff0000?style=for-the-badge&logoColor=white)](https://example.com)
+
 
 ## About ℹ️
 
