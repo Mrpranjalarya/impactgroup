@@ -6,7 +6,26 @@ Welcome to the Impact Training Project Repository! 🌍
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXoycWthdXowMHd6ZW9scmlsZW5ubjJmZ25wcGVybWQ4eHBxczd5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="Your GIF" />
 </div>
 
-[![Rainbow Button](https://img.shields.io/badge/Rainbow-Button-ff0000?style=for-the-badge&logoColor=white)](https://example.com)
+<div style="text-align: center;">
+  <a href="https://example.com" style="
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background: linear-gradient(45deg, #ff0000, #ff7300, #fffb00, #48ff00, #00ffd5, #002bff, #7a00ff, #ff00c8, #ff0000);
+    background-size: 600% 100%;
+    color: #fff;
+    text-decoration: none;
+    animation: rainbow-animation 8s ease infinite;
+    @keyframes rainbow-animation {
+      0% {
+        background-position: 0 0;
+      }
+      100% {
+        background-position: 100% 0;
+      }
+    }
+  ">Rainbow Button</a>
+</div>
 
 
 ## About ℹ️
